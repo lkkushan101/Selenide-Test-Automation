@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3481" started-at="2018-05-31T16:33:17Z" finished-at="2018-05-31T16:33:20Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3481" started-at="2018-05-31T16:33:17Z" finished-at="2018-05-31T16:33:20Z">
+      <class name="RestPkg.PutRequestRestAssured">
+        <test-method status="PASS" signature="PostDetails()[pri:0, instance:RestPkg.PutRequestRestAssured@2b98378d]" name="PostDetails" duration-ms="2608" started-at="2018-05-31T16:33:17Z" finished-at="2018-05-31T16:33:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PostDetails -->
+      </class> <!-- RestPkg.PutRequestRestAssured -->
+      <class name="RestPkg.RestClass">
+        <test-method status="PASS" signature="GetWeatherDetails()[pri:0, instance:RestPkg.RestClass@26be92ad]" name="GetWeatherDetails" duration-ms="840" started-at="2018-05-31T16:33:19Z" finished-at="2018-05-31T16:33:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetWeatherDetails -->
+      </class> <!-- RestPkg.RestClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
