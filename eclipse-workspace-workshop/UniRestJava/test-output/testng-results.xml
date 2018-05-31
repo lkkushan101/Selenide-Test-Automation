@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1574" started-at="2018-05-31T06:44:29Z" finished-at="2018-05-31T06:44:31Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1574" started-at="2018-05-31T06:44:29Z" finished-at="2018-05-31T06:44:31Z">
+      <class name="UniRESTJava.UNIRestClass">
+        <test-method status="PASS" signature="shouldReturnStatusOkay()[pri:0, instance:UniRESTJava.UNIRestClass@2b98378d]" name="shouldReturnStatusOkay" duration-ms="1542" started-at="2018-05-31T06:44:29Z" finished-at="2018-05-31T06:44:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldReturnStatusOkay -->
+      </class> <!-- UniRESTJava.UNIRestClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
